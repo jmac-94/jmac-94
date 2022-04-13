@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jmac-94.
+- 👀 I’m interested in coding, basketball and music.
+- 🌱 I’m currently learning more about c++ and how to create platforms with python and postgresql.
+- 📫 How to reach me: josuearriaga94@gmail.com
